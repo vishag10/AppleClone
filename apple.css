@@ -4,7 +4,7 @@ body{
 .nav{
     width: 100%;
     height: 44px;
-    background-color: rgba(30, 29, 29, 0.881);
+    background-color: rgba(31, 30, 30, 0.919);
     margin: 0px;
     padding: 0px 22px;
     position: fixed;
@@ -362,5 +362,92 @@ margin-top: 730px;
     height: 400px;
     margin-top: 600px;
     left: 110px;
+    
+}
+.session5{
+    width: 100%;
+    background: black;
+    height: 1000px;
+    position: relative;
+}
+.session5img{
+    width: 274px;
+    position: absolute;
+    height: 93px;
+    left: 570px;
+    top: 100px;
+}
+.para7{
+    font-size: 20px;
+    line-height: 1.2105263158;
+    font-weight: 600;
+    letter-spacing: .012em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #86868b;
+    position: absolute;
+    text-align: center;
+    left: 420px;
+    margin-top: 240px;
+}
+.para8{
+    color: white;
+    position: absolute;
+    font-size: 17px;
+    line-height: 1.4705882353;
+    font-weight: 500;
+    letter-spacing: -0.022em;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    display: block;
+    text-align: center;
+    left: 600px;
+    margin-top: 380px;
+}
+
+.button8{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 28px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 30px;
+    position: relative;
+    left: 550px;
+    position: absolute;
+    margin-top: 440px;
+    
+}
+.button9{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 28px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 30px;
+    left: 720px;
+    position: absolute;
+    margin-top: 440px;
+    
+}
+.session5img1{
+    position: absolute;
+    width: 95%;
+    height: 400px;
+    margin-top: 600px;
+    left: 50px;
+    
     
 }
