@@ -149,3 +149,218 @@ body{
     left: 500px;
     margin-top: 400px;
 }
+.button2{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 28px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    position: relative;
+    top: 550px;
+    right: 55px;
+}
+.button3{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 28px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    position: relative;
+    top: 550px;
+    right: 40px;
+}
+.session3{
+    width: 100%;
+    background: linear-gradient(to bottom,rgb(79, 107, 144),white);
+    height: 900px;
+}
+.session3img{
+    width: 900px;
+    position: absolute;
+    margin-top: 300px;
+    left: 240px;
+}
+.headline2{
+    font-size: 55px;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: -0.009em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #fff;
+    position: absolute;
+    left: 580px;
+    margin-top:90px ;
+    
+}
+.session3img1{
+    position: absolute;
+    width: 600px;
+    left: 410px;
+    margin-top: 40px;
+    
+}
+.para3{
+    font-size: 20px;
+    line-height: 1.2105263158;
+    font-weight: 600;
+    letter-spacing: .012em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: black;
+    position: absolute;
+    text-align: center;
+    left: 370px;
+    margin-top: 630px;
+}
+.para4{
+color: black;
+position: absolute;
+font-size: 17px;
+line-height: 1.4705882353;
+font-weight: 500;
+letter-spacing: -0.022em;
+font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+display: block;
+text-align: center;
+left: 500px;
+margin-top: 730px;
+}
+.button4{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 28px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 2px solid rgb(16, 15, 15);
+    border-radius: 30px;
+    position: relative;
+    left: 560px;
+    position: absolute;
+    margin-top: 828px;
+    
+}
+.button5{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 28px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    left: 720px;
+    position: absolute;
+    margin-top: 828px;
+    
+}
+.session4{
+    width: 100%;
+    background: white;
+    height: 1000px;
+}
+.session4img{
+    width: 274px;
+    position: absolute;
+    height: 93px;
+    left: 580px ;
+    margin-top: 150px;
+}
+.para5{
+    font-size: 20px;
+    line-height: 1.2105263158;
+    font-weight: 600;
+    letter-spacing: .012em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #86868b;
+    position: absolute;
+    text-align: center;
+    left: 420px;
+    margin-top: 280px;
+}
+.para6{
+    color: black;
+    position: absolute;
+    font-size: 17px;
+    line-height: 1.4705882353;
+    font-weight: 500;
+    letter-spacing: -0.022em;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    display: block;
+    text-align: center;
+    left: 615px;
+    margin-top: 410px;
+}
+
+.button6{
+        text-align: center;
+        text-decoration: none;
+        color: black;
+        font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 17px;
+        line-height: 1.1764805882;
+        font-weight: 400;
+        letter-spacing: -0.022em;
+        margin: 28px 0px 0px;
+        padding: 17px 30px;
+        background: transparent;
+        border: 1px solid rgb(16, 15, 15);
+        border-radius: 30px;
+        position: relative;
+        left: 560px;
+        position: absolute;
+        margin-top: 470px;
+        
+}
+.button7{
+        text-align: center;
+        text-decoration: none;
+        color: black;
+        font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 17px;
+        line-height: 1.1764805882;
+        font-weight: 400;
+        letter-spacing: -0.022em;
+        margin: 28px 0px 0px;
+        padding: 17px 30px;
+        background: transparent;
+        border: 1px solid rgb(0, 0, 0);
+        border-radius: 30px;
+        left: 730px;
+        position: absolute;
+        margin-top: 470px;
+        
+}
+.session4img1{
+    position: absolute;
+    width: 87%;
+    height: 400px;
+    margin-top: 600px;
+    left: 110px;
+    
+}
