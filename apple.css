@@ -562,3 +562,68 @@ margin-top: 730px;
     left: 530px;
     margin-top: 780px;
 }
+.button12{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 28px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 30px;
+    position: relative;
+    left: 510px;
+    position: absolute;
+    margin-top: 900px;
+    
+}
+.button13{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    margin: 28px 0px 0px;
+    padding: 17px 30px;
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 30px;
+    left: 680px;
+    position: absolute;
+    margin-top: 900px;
+    
+}
+.footer{
+    width: 100%;
+    background:rgba(255, 255, 255, 0.907) ;
+    height: 800px;
+    position: relative;
+    
+}
+.footerul{
+    list-style: none;
+    font-size: 15px;
+    color: rgba(16, 16, 16, 0.766);
+    justify-content: space-evenly;
+}
+.foo1{
+    display: flex;
+    width: 100%;
+    background-color: aqua;
+}
+.div1{
+    width: 20%;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+    height: 500px;
+}
