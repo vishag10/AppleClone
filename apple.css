@@ -602,9 +602,9 @@ margin-top: 730px;
     
 }
 .footer{
+    height: 200px;
     width: 100%;
     background:rgba(255, 255, 255, 0.907) ;
-    height: 800px;
     position: relative;
     
 }
@@ -615,15 +615,53 @@ margin-top: 730px;
     justify-content: space-evenly;
 }
 .foo1{
-    display: flex;
+    left: 150px;
+   position: absolute;
+    width: 80%;
+    /* background-color: aqua; */
+}
+.about{
     width: 100%;
-    background-color: aqua;
+    height: 300px;
+    /* background-color: blue; */
+    display: flex;
 }
 .div1{
-    width: 20%;
-    background-color: yellow;
-    display: flex;
-    justify-content: center;
-    text-transform: capitalize;
-    height: 500px;
+    margin-left: 200px;
+    width: 15%;
+    /* background-color: antiquewhite; */
+}
+.div2{
+    width: 15%;
+    /* background: rebeccapurple; */
+}
+.div3{
+    width: 15%;
+    /* background: rebeccapurple; */
+}
+.div4{
+    width: 15%;
+    /* background: rebeccapurple; */
+}
+.div5{
+    width: 15%;
+    /* background: rebeccapurple; */
+}
+dt{
+    margin-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 35px;
+    font-weight: bolder;
+    color: rgba(8, 8, 8, 0.899);
+    font-size: 14px;
+}
+dd{
+    padding-left: 0px;
+    font-weight: lighter;
+    color: rgba(45, 45, 45, 0.893);
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+hr{
+    color: rgb(35, 35, 35);
 }
